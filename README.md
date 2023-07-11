@@ -2,12 +2,12 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Back-End
+💻 Sou um desenvolvedor Back-End
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End @Cubos Academy
+🎓 Estudo Desenvolvimento de Software com Foco em Back-End @Cubos Academy
 
 🔎 Também sou curioso sobre designer ✏️ , matemática 🔢 e basquete 🏀
 
