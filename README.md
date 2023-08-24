@@ -13,7 +13,7 @@
 
 ✒️ E gosto de no meu tempo livre praticar esportes ⛹️‍♂️ e ver um bom filme/série 🍿;
 
-### Eu estou estudando... 🧩
+### Trabalhando atualmente com... 🧩
 
 **Tecnologias e Ferramentas**
 
@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![NPM](https://camo.githubusercontent.com/e1d814ec600df8dc2af0c6a144e7b8578e6803f9ec855f5a829f140409db7788/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)
 
 
 <div>
