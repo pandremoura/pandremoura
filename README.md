@@ -8,6 +8,7 @@
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
 🎓 Formado em Desenvolvimento de Software com Foco em Back-End @Cubos Academy
+
 🎓 Estudo diariamente sobre tecnologia
 
 🔎 Também sou curioso sobre designer ✏️ , matemática 🔢 e basquete 🏀
