@@ -4,10 +4,10 @@
 
 💻 Sou um desenvolvedor Back-End e Front-End
 
-🎓 Estudo diariamente sobre tecnologia
+🎓 Estudo diariamente sobre tecnologias como 
 🎓 PHP | JavaScript | Vue.js | Laravel | TypeScript | Tailwind CSS | Node.js | SQL | Git | RESTFul API
 
-🔎 Também sou curioso sobre designer ✏️ , matemática 🔢 e basquete 🏀
+🔎 Também sou curioso sobre designer ✏️, matemática 🔢 e basquete 🏀
 
 ✒️ E gosto de no meu tempo livre praticar esportes ⛹️‍♂️ e ver um bom filme/série 🍿;
 
