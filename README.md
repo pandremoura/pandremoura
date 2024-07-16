@@ -4,24 +4,14 @@
 
 💻 Sou um desenvolvedor Back-End e Front-End
 
-<!-- Isso é um comentário, não irá aparecer no seu perfil
-(Abaixo você seleciona o curso que você está fazendo no momento) -->
-
-🎓 Formado em Desenvolvimento de Software com Foco em Back-End @Cubos Academy
-
 🎓 Estudo diariamente sobre tecnologia
+🎓 PHP | JavaScript | Vue.js | Laravel | TypeScript | Tailwind CSS | Node.js | SQL | Git | RESTFul API
 
 🔎 Também sou curioso sobre designer ✏️ , matemática 🔢 e basquete 🏀
 
 ✒️ E gosto de no meu tempo livre praticar esportes ⛹️‍♂️ e ver um bom filme/série 🍿;
 
 
-
-<div>
-<a href="https://github.com/pandremoura">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandremoura&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandremoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ### Entre em contato comigo! 📭
 <div>
