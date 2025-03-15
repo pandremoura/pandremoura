@@ -9,7 +9,7 @@
 
 🔎 Também sou curioso sobre designer ✏️, matemática 🔢 e basquete 🏀
 
-✒️ E gosto de no meu tempo livre praticar esportes ⛹️‍♂️ e ver um bom filme/série 🍿;
+✒️ E gosto de no meu tempo livre praticar esportes ⛹️‍♂️ e programar 💻;
 
 
 
