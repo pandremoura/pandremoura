@@ -1,5 +1,5 @@
 # Paulo André Pinto
-***Desenvolvedor de Software***
+***Desenvolvedor de Software Full Stack***
 
 ---
 
